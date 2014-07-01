@@ -11,7 +11,8 @@ int main(int argc, const char *argv[])
 	printf("address of a = %p\n", p);
 	printf("address of p = %p\n", &p);
 	printf("Wow, %d = %d\n", *p, a);
-
+	printf("THis is fun........");
+	
 	array_p = c;
 
 	printf("start of the array %p\n", c);
